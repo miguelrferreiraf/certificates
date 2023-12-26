@@ -9,8 +9,6 @@ The certificates here available are:
 
 - Formação Data Science com Python e R (*46h - Udemy*)
 
-<iframe src="./assets/files/udemy_certificate.pdf" allowtransparency="true" width="500" height="445"></iframe>
-
 Complete Data Science training course, promoted by Udemy, with 347 classes and 53 topics. Data analysis, statistics, object oriented programming, libraries (Numpy, Pandas, Matplotlib, Scikit-learn, Tensor-flow, Keras, etc), machine learning, model creation, model training, application and hosting of algorithms in virtual machines.
 
 
