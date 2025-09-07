@@ -1,6 +1,6 @@
 # My professional certificates
 
-Hi, I'm Miguel Ferreira, data scientist and web/desktop Python developer from Brazil. This repository contains my certifications and curriculum.
+Hi :wave:, I'm Miguel Ferreira, web3/web developer, data scientist and Data Scientist from Brazil. This repository contains my certifications and curriculum.
 
 The certificates here available are:
 - **IBM Data Science** (*159h - Coursera*)
