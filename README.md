@@ -23,6 +23,9 @@ My curriculum can be seen [here](https://github.com/miguelrferreiraf/certificate
 
 Olha ele aí: <embed src="https://github.com/miguelrferreiraf/certificates/blob/5ceb8680c1ef61528a570ac20f65e3d1c8393363/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/web3_curriculum_eng.pdf" type="application/pdf" width="100%" height="600px" />
 
+<iframe src="https://github.com/miguelrferreiraf/certificates/blob/5ceb8680c1ef61528a570ac20f65e3d1c8393363/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/web3_curriculum_eng.pdf" width="100%" height="600px"></iframe>
+
+
 
 Thank you.
 
