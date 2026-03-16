@@ -1,6 +1,6 @@
 # My professional certificates
 
-Hi, I'm Miguel Ferreira, data scientist and web/desktop Python developer from Brazil. This repository contains my certifications and curriculum.
+Hi :wave:, I'm Miguel Ferreira, web3/web developer, data scientist and Data Scientist from Brazil. This repository contains my certifications and curriculum.
 
 The certificates here available are:
 - **IBM Data Science** (*159h - Coursera*)
@@ -19,7 +19,7 @@ Complete Data Science training course, promoted by Unimed. With a practical appr
 
 Complete web development course, including HTML, CSS, JavaScript, Redux, React and MongoDB. 
 
-My curriculum can be seen [here](https://github.com/miguelrferreiraf/certificates/blob/459dcb8beb1528a9dfba061c99570c345f5f878d/Data_Scientist_Developer(en-original).pdf). 
+### My curriculum can be seen [here](https://github.com/miguelrferreiraf/certificates/blob/5ceb8680c1ef61528a570ac20f65e3d1c8393363/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/web3_curriculum_eng.pdf). 
 
 Thank you.
 
