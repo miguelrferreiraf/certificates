@@ -19,7 +19,7 @@ Complete Data Science training course, promoted by Unimed. With a practical appr
 
 Complete web development course, including HTML, CSS, JavaScript, Redux, React and MongoDB. 
 
-### My curriculum can be seen [here](https://github.com/miguelrferreiraf/certificates/blob/main/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/desenvolvedor.pdf). 
+# My curriculum can be seen [here](https://github.com/miguelrferreiraf/certificates/blob/main/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/desenvolvedor.pdf). 
 
 Thank you.
 
