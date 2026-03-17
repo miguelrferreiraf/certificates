@@ -1,26 +1,24 @@
-# My professional certificates
+# Meus certificados profissionais
 
-Hi :wave:, I'm Miguel Ferreira, web3/web developer, data scientist and Data Scientist from Brazil. This repository contains my certifications and curriculum.
+Olá :wave:, sou Miguel Ferreira, desenvolvedor web3/web, cientista de dados e Data Scientist do Brasil. Este repositório contém minhas certificações e currículo.
 
-The certificates here available are:
+Os certificados disponíveis aqui são:
 - **IBM Data Science** (*159h - Coursera*)
   
->*"In this Professional Certificate, learners developed and honed handson skills in Data Science and Machine Learning. Learners started with an orientation of Data Science and its Methodology, became familiar and used a variety of data science tools, learned Python and SQL, performed Data Visualization and Analysis, and created Machine Learning models. In the process they completed several labs and assignments on the cloud including a Capstone Project at the end to apply and demonstrate their knowledge and skills."*
+>*"Neste Certificado Profissional, os alunos desenvolveram e aprimoraram habilidades práticas em Ciência de Dados e Machine Learning. Os alunos começaram com uma introdução à Ciência de Dados e sua metodologia, familiarizaram-se e utilizaram uma variedade de ferramentas de ciência de dados, aprenderam Python e SQL, realizaram visualização e análise de dados, e criaram modelos de Machine Learning. No processo, concluíram diversos laboratórios e tarefas na nuvem, incluindo um Projeto Final (Capstone) ao final para aplicar e demonstrar seus conhecimentos e habilidades."*
 
 - **Formação Data Science com Python e R** (*46h - Udemy*)
 
-Complete Data Science training course, promoted by Udemy, with 347 classes and 53 topics. Data analysis, statistics, object oriented programming, libraries (Numpy, Pandas, Matplotlib, Scikit-learn, Tensor-flow, Keras, etc), machine learning, model creation, model training, application and hosting of algorithms in virtual machines.
+Curso completo de formação em Ciência de Dados, promovido pela Udemy, com 347 aulas e 53 tópicos. Análise de dados, estatística, programação orientada a objetos, bibliotecas (Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, etc), machine learning, criação de modelos, treinamento de modelos, aplicação e hospedagem de algoritmos em máquinas virtuais.
 
-- **Geração Tech Unimed-BH - Ciência de Dados**(*126h - Unimed*)
+- **Geração Tech Unimed-BH - Ciência de Dados** (*126h - Unimed*)
 
-Complete Data Science training course, promoted by Unimed. With a practical approach, content included hosting, AWS services, SQL and NoSQL technologies, MongoDB, data management, beyond Python and its technologies (same as described above). Training provided by Unimed Hospitals Network.
+Curso completo de formação em Ciência de Dados, promovido pela Unimed. Com abordagem prática, o conteúdo incluiu hospedagem, serviços AWS, tecnologias SQL e NoSQL, MongoDB, gestão de dados, além de Python e suas tecnologias (como descrito acima). Formação oferecida pela rede de hospitais Unimed.
 
 - **Impulso React Web Development** (*67h - Digital Innovation One*)
 
-Complete web development course, including HTML, CSS, JavaScript, Redux, React and MongoDB. 
+Curso completo de desenvolvimento web, incluindo HTML, CSS, JavaScript, Redux, React e MongoDB. 
 
-# My curriculum can be seen [here](https://github.com/miguelrferreiraf/certificates/blob/main/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/desenvolvedor.pdf). 
+# Meu currículo pode ser visto [aqui](https://github.com/miguelrferreiraf/certificates/blob/main/Curr%C3%ADculos/novos%20curriculos%20-%2023-05-2025/desenvolvedor.pdf). 
 
-Thank you.
-
-
+Obrigado.
