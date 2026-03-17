@@ -1,6 +1,6 @@
 # Meus certificados profissionais
 
-Olá :wave:, sou Miguel Ferreira, desenvolvedor web/web3, e cientista de dados do Brasil. Este repositório contém minhas certificações e currículo.
+## Olá :wave:, sou Miguel Ferreira, desenvolvedor web/web3, e cientista de dados do Brasil. Este repositório contém minhas certificações e currículo.
 
 Os certificados disponíveis aqui são:
 - **IBM Data Science** (*159h - Coursera*)
